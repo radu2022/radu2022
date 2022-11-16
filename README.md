@@ -33,7 +33,7 @@ I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/W
 - :zap: In my free time, I work on RapidAPI, solve problems on Codecademy and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seid-hamid-41735011/)
-## [My Portfolio & Resume](https://radu2022.github.io/)
+## [My Portfolio & Resume](https://radu2022/radu2022.github.io/)
 
 ----
 
