@@ -36,7 +36,7 @@ I am a Passionate Full Stack Developer <img src="https://media.giphy.com/media/W
 
 ----
 
-## [My Portfolio & Resume](https://radu2022.github.io/portfolio/)
+## [My Portfolio & Resume](https://radu2022.github.io/)
 
 ---
 
